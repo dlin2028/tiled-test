@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/David/Documents/GitHub/TiledTest/Content/isometric_grass_and_water.png","C:/Users/David/Documents/GitHub/TiledTest/Content/bin/DesktopGL/Content/isometric_grass_and_water_0.xnb","TextureProcessor","Texture2DContent",104828,393301,0.0098998
+"C:/Users/David/Documents/GitHub/TiledTest/Content/test2.tmx","C:/Users/David/Documents/GitHub/TiledTest/Content/bin/DesktopGL/Content/test2.xnb","TiledMapProcessor","TiledMapContentItem",5628,20223,0.1159008
